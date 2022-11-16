@@ -19,11 +19,11 @@ $minerals = Database::getInstance()->getAllMinerals();
 
 <body>
   <div class="header">
-    <img src="download.png" alt="mineral" id="mineral">
+    <img src="slike/header.png" alt="mineral" id="mineral">
   </div>
 
   <div id="title">
-    <img src="naslov.png" alt="title" id="motw">
+    <img src="slike/minerals of the World.png" alt="title" id="motw">
     <h3>Here you can see the real beauties mother Earth provides us!</h3>
 
    
@@ -41,13 +41,13 @@ $minerals = Database::getInstance()->getAllMinerals();
     <div class="breakDiv"></div>
 
     <div id=smallCrystalDiv>
-      <img src="smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
-      <img src="smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
-      <img src="smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
-      <img src="smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
-      <img src="smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
-      <img src="smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
-      <img src="smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
+      <img src="slike/smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
+      <img src="slike/smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
+      <img src="slike/smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
+      <img src="slike/smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
+      <img src="slike/smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
+      <img src="slike/smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
+      <img src="slike/smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
       
     </div>
 
@@ -72,13 +72,13 @@ $minerals = Database::getInstance()->getAllMinerals();
     </div>
 
     <div id=smallCrystalDiv>
-      <img src="smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
-      <img src="smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
-      <img src="smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
-      <img src="smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
-      <img src="smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
-      <img src="smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
-      <img src="smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
+      <img src="slike/smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
+      <img src="slike/smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
+      <img src="slike/smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
+      <img src="slike/smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
+      <img src="slike/smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
+      <img src="slike/smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
+      <img src="slike/smallCrystal.jpg" alt="smallCrystal" id="smallCrystal">
     </div>
 
     <p>In geology and mineralogy, a mineral or mineral species is, broadly speaking,
