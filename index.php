@@ -35,7 +35,7 @@ $minerals = Database::getInstance()->getAllMinerals();
     <a href="table.php" id="t">Table with our Minerals</a>  
     <a href="insert.php?un=aleksa" id="pr">Add a product</a>
     <a href="https://www.spiriferminerals.com/" id="spirifer">Visit another website</a>
-    <a href="cv.html" id="cv">Admin profile</a>
+    <a href="admin.html" id="cv">Admin profile</a>
     
     </div>
     <div class="breakDiv"></div>
