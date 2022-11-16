@@ -85,7 +85,9 @@ body {
   margin-top: 20px;
 }
 
-#pr {
+
+
+#spirifer, #cv, #pr, #t {
   font-size: 30px;
   padding: 10px;  
   font-family: sans-serif;
@@ -98,32 +100,7 @@ body {
 
 }
 
-#spirifer {
-  font-size: 30px;
-  padding: 10px;  
-  font-family: sans-serif;
-  color: white;
-  border-radius: 15px;
-  background-color: rgb(121, 9, 155);
-  text-decoration: none;
-  border-style: none;
-  cursor: pointer;
 
-}
-
-#cv {
-  font-size: 30px;
-  padding: 10px;  
-  font-family: sans-serif;
-  color: white;
-  border-radius: 15px;
-  background-color: rgb(121, 9, 155);
-  text-decoration: none;
-  border-style: none;
-  cursor: pointer;
-
-
-}
  .buttons a{
   display:inline-block;
   margin-right: 10px;
@@ -131,18 +108,7 @@ body {
  #c {
   text-align: center;
 }
-#t{
-  font-size: 30px;
-  padding: 10px;  
-  font-family: sans-serif;
-  color: white;
-  border-radius: 15px;
-  background-color: rgb(121, 9, 155);
-  text-decoration: none;
-  border-style: none;
-  cursor: pointer;
 
-}
 
   .buttons {
     text-align: center;
