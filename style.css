@@ -1,0 +1,169 @@
+.header {
+  width: 100%;
+}
+
+#mineral {
+  width: 100%;
+}
+
+#title {
+  text-align: center;
+}
+
+#title h1 {
+  font-size: 45px;
+}
+
+#title h3 {
+  color: rgb(121, 9, 155);
+}
+
+#crystal1 {
+  padding-top: 120px;
+  display: flex;
+  float: left;
+}
+
+#crystal2 {
+  display: flex;
+  float: right;
+}
+
+p {
+  padding: 10px 100px 10px 100px;
+}
+
+#smallCrystalDiv {
+  display: flex;
+  justify-content: center;
+}
+
+#footer {
+  text-align: center;
+}
+
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+#smallCrystal {
+  width: 20px;
+  padding: 5px;
+}
+
+.breakDiv {
+  height: 150px;
+}
+
+.mineralForm {
+  margin-bottom: 100px;
+  text-align: center;
+}
+
+.product img {
+  height: 150px;
+}
+
+.product p {
+  margin: 0;
+  padding: 0;
+}
+
+.product {
+  text-align: center;
+  flex-basis: 25%
+}
+
+.allProducts {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 50px;
+}
+
+#motw {
+  height: 100px;
+  margin-top: 20px;
+}
+
+#pr {
+  font-size: 30px;
+  padding: 10px;  
+  font-family: sans-serif;
+  color: white;
+  border-radius: 15px;
+  background-color: rgb(121, 9, 155);
+  text-decoration: none;
+  border-style: none;
+  cursor: pointer;
+
+}
+
+#spirifer {
+  font-size: 30px;
+  padding: 10px;  
+  font-family: sans-serif;
+  color: white;
+  border-radius: 15px;
+  background-color: rgb(121, 9, 155);
+  text-decoration: none;
+  border-style: none;
+  cursor: pointer;
+
+}
+
+#cv {
+  font-size: 30px;
+  padding: 10px;  
+  font-family: sans-serif;
+  color: white;
+  border-radius: 15px;
+  background-color: rgb(121, 9, 155);
+  text-decoration: none;
+  border-style: none;
+  cursor: pointer;
+
+
+}
+ .buttons a{
+  display:inline-block;
+  margin-right: 10px;
+ }
+ #c {
+  text-align: center;
+}
+#t{
+  font-size: 30px;
+  padding: 10px;  
+  font-family: sans-serif;
+  color: white;
+  border-radius: 15px;
+  background-color: rgb(121, 9, 155);
+  text-decoration: none;
+  border-style: none;
+  cursor: pointer;
+
+}
+
+  .buttons {
+    text-align: center;
+  }
+
+@media only screen and (max-width: 800px) {
+  .product {
+    text-align: center;
+    flex-basis: 50%
+  }
+}
+
+.nameSort:hover, .priceSortAsc:hover,.priceSortDesc:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.mineral-image {
+  transition: transform .3s ease;
+}
+
+.mineral-image:hover {
+  transform: scale(1.1);
+}
