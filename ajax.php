@@ -18,3 +18,11 @@ if (isset($_POST['sortType'])) {
   exit;
 }
 
+if (isset($_POST['searchText'])) {
+  $searchText = $_POST['searchText'];
+  $minerals = Database::getInstance()->searchMinerals($searchText);
+
+  echo json_encode($minerals);
+  
+  exit;
+}
